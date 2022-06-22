@@ -1,0 +1,15 @@
+body {
+  background: rgb(216, 198, 173);
+}
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+th,
+td {
+  padding: 10px;
+  border: 1px solid;
+  gap: 0.2px;
+}
